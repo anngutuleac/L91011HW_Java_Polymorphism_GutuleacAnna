@@ -4,25 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5331e34e-4111-42c5-b524-febddbbe7c7d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L91011HW_JavaPolymorphism_GutuleacAnna.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue/CircularQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue/DynQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue/FixedQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue/ICharQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue/IQDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueException/FixedQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueException/ICharQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueException/QExcDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentsAvgMarkFile/StudentsManage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe/TicTacToe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe/TicTacToeSingle.java" afterDir="false" />
+    <list default="true" id="5331e34e-4111-42c5-b524-febddbbe7c7d" name="Changes" comment="Make lesson 9 10 11 homework">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +39,21 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/L678HW_Java_Inheritance_GutuleacAnna&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="L91011HW_JavaPolymorphism_GutuleacAnna" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="L91011HW_JavaPolymorphism_GutuleacAnna" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,6 +63,18 @@
       <option name="presentableId" value="Default" />
       <updated>1687958511698</updated>
     </task>
+    <task id="LOCAL-00001" summary="Make lesson 9 10 11 homework">
+      <created>1688319900242</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688319900242</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Make lesson 9 10 11 homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make lesson 9 10 11 homework" />
   </component>
 </project>
