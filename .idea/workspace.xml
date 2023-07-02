@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5331e34e-4111-42c5-b524-febddbbe7c7d" name="Changes" comment="Make lesson 9 10 11 homework">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5331e34e-4111-42c5-b524-febddbbe7c7d" name="Changes" comment="Update project name" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,21 +37,6 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/L678HW_Java_Inheritance_GutuleacAnna&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="L91011HW_JavaPolymorphism_GutuleacAnna" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="L91011HW_JavaPolymorphism_GutuleacAnna" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,11 +53,19 @@
       <option name="project" value="LOCAL" />
       <updated>1688319900242</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update project name">
+      <created>1688320227509</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688320227509</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Make lesson 9 10 11 homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Make lesson 9 10 11 homework" />
+    <MESSAGE value="Update project name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update project name" />
   </component>
 </project>
